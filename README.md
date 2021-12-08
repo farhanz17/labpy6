@@ -19,7 +19,7 @@ Apabila kita menginputkan 'c' maka kita akan diminta untuk memasukkan nama yang 
 
 7.) Membuat syntax untuk melihat atau menampilkan data.
 
-Apabila kita menginput 'l' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA".
+Apabila kita menginput 'l' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "SILAKAN MASUKAN PERINTAH TERLEBIH DAHULU".
 
 8.) Membuat syntax untuk menghentikan perulangan.
 
