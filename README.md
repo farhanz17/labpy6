@@ -30,3 +30,9 @@ Apabila kita menginput 'k' maka program akan langsung berhenti.
 Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita akan diminta untuk memilih menu yang tersedia.
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/92637117/145224141-faf4da37-a540-49e5-8395-5c067b293e83.png)
+
+Lambda
+
+![Screenshot (85)](https://user-images.githubusercontent.com/92637117/145821552-6c5cb40c-2800-454b-b363-7444cd3c217e.png)
+
+
