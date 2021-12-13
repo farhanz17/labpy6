@@ -1,5 +1,10 @@
 Ini pak link tugas kemaren : https://github.com/farhanz17/lab5.git
 
+Lambda
+
+![Screenshot (85)](https://user-images.githubusercontent.com/92637117/145822478-7e5563d1-0f16-4d94-afcc-a9cd94ef707f.png)
+
+
 ![144758612-85a1eda4-5141-42a3-82d1-47c21a6aee6b](https://user-images.githubusercontent.com/92637117/145223755-5ca13888-1a74-4804-9cfa-21f83ad84d8a.png)
 
 
@@ -31,8 +36,6 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita ak
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/92637117/145224141-faf4da37-a540-49e5-8395-5c067b293e83.png)
 
-Lambda
 
-![Screenshot (85)](https://user-images.githubusercontent.com/92637117/145821552-6c5cb40c-2800-454b-b363-7444cd3c217e.png)
 
 
